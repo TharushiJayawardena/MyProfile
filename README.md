@@ -10,3 +10,5 @@
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=TharushiJayawardena&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=TharushiJayawardena&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
+
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=KasRoudra&repo=pyphisher&layout=compact&theme=vue)](https://github.com/KasRoudra/github-stats-card)
