@@ -8,3 +8,5 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=TharushiJayawardena&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=TharushiJayawardena&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
